@@ -111,7 +111,7 @@ TripoSF VAE Architecture:
 @article{he2025triposf,
   title={SparseFlex: High-Resolution and Arbitrary-Topology 3D Shape Modeling},
   author={He, Xianglong and Zou, Zi-Xin and Chen, Chia-Hao and Guo, Yuan-Chen and Liang, Ding and Yuan, Chun and Ouyang, Wanli and Cao, Yan-Pei and Li, Yangguang},
-  journal={arXiv preprint arXiv:2503.XXXXX},
+  journal={arXiv preprint arXiv:2503.21732},
   year={2025}
 }
 ```
