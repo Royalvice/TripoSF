@@ -74,6 +74,12 @@ python inference.py --mesh-path "assets/examples/jacket.obj" \
                    --config "configs/TripoSFVAE_1024.yaml"
 ```
 
+### Local Gradio Example
+```bash
+python app.py
+```
+![gradio_example](assets/docs/local_gradio_example.png)
+
 ### Optimization Tips 💡
 
 #### For Open Surfaces
