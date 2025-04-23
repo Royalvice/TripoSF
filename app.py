@@ -63,7 +63,7 @@ def normalize_mesh(mesh_path):
     center = mesh.bounding_box.centroid
     mesh.apply_translation(-center)
     scale = max(mesh.bounding_box.extents)
-    mesh.apply_scale(2.0 / scale * 0.5)
+    mesh.apply_scale(1.0 / scale * 0.5)
 
     angle = np.radians(90)
     rotation_matrix = trimesh.transformations.rotation_matrix(angle, [-1, 0, 0])
